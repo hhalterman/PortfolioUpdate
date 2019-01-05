@@ -1,5 +1,8 @@
 ## Updated Portfolio
 
+### Live site
+https://hhalterman.github.io/PortfolioUpdate/
+
 ### Before you Begin
 
 * Pin some repos that you want to share
